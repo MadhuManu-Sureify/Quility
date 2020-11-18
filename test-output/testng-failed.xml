@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="tests.ProdTestRunner">
+        <methods>
+          <include name="record_0021"/>
+          <include name="record_0030"/>
+          <include name="record_0022"/>
+          <include name="record_0020"/>
+          <include name="record_0031"/>
+          <include name="record_0023"/>
+          <include name="record_0025"/>
+          <include name="afterSuite"/>
+          <include name="record_0026"/>
+          <include name="record_0029"/>
+          <include name="record_0024"/>
+          <include name="record_0027"/>
+          <include name="record_0019"/>
+          <include name="record_0028"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- tests.ProdTestRunner -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
