@@ -1,0 +1,8 @@
+Sureify/AutomationTemplate/WebActions.class
+Sureify/AutomationTemplate/AppData.class
+regression/ApplicationFlowI.class
+modules/Footer.class
+tests/RegressionTestRunner.class
+Sureify/AutomationTemplate/Suite.class
+general/Common.class
+tests/FooterTestRunner.class

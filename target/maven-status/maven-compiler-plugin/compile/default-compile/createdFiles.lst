@@ -1,0 +1,6 @@
+runners/TestRunner.class
+dataProviders/ExcelFileReader.class
+utilities/ScreenRecorder$Quality.class
+dataProviders/XMLFileReader.class
+dataProviders/JsonFileReader.class
+utilities/ScreenRecorder.class
