@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Quility Test Suite">
+
+	<test name="Quility TestNG Test Group" parallel="methods" thread-count="5">
+        <classes>
+        	<class name="tests.RegressionTestRunner"/>
+	        <!-- <class name="tests.FooterTestRunner"/> -->
+	        <!--  <class name="tests.MainTestRunner"/> -->
+	        <!-- <class name="tests.RegressionTestRunner"/>  -->
+        </classes>
+    
+    </test>
+   <!--    <packages>
+        <package name="tests"/>
+    </packages> -->
+    
+</suite>

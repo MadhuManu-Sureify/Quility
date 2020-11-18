@@ -1,0 +1,116 @@
+Nov 11, 2020 2:48:00 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Nov 11, 2020 2:48:54 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Nov 11, 2020 2:49:08 PM general.Common fillBasicInfo
+INFO: Entered the middle name
+Nov 11, 2020 2:49:08 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Basic Information Test Passed
+Nov 11, 2020 2:49:09 PM Sureify.AutomationTemplate.WebActions handleException
+INFO: Got exception : null
+Nov 11, 2020 2:49:13 PM general.Common fillPersonalIdInfo
+INFO: Entered SSN
+Nov 11, 2020 2:49:13 PM general.Common fillPersonalIdInfo
+INFO: Opted to driving license to Yes
+Nov 11, 2020 2:49:14 PM general.Common fillPersonalIdInfo
+INFO: Entered License Number
+Nov 11, 2020 2:49:14 PM general.Common fillPersonalIdInfo
+INFO: Choosed occupation
+Nov 11, 2020 2:49:15 PM general.Common fillPersonalIdInfo
+INFO: Choosed state of birth
+Nov 11, 2020 2:49:16 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Personal Identification Information Test Passed
+Nov 11, 2020 2:49:18 PM general.Common fillOccupInfo
+INFO: Choosed occupation
+Nov 11, 2020 2:49:18 PM general.Common fillOccupInfo
+INFO: Entered income
+Nov 11, 2020 2:49:19 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Occupational Information Test Passed
+Nov 11, 2020 2:49:20 PM general.Common fillPersonalInfo
+INFO: Entered Height in Ft
+Nov 11, 2020 2:49:20 PM general.Common fillPersonalInfo
+INFO: Entered Height in inch
+Nov 11, 2020 2:49:21 PM general.Common fillPersonalInfo
+INFO: Entered Weight
+Nov 11, 2020 2:49:21 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Personal Information Test Passed
+Nov 11, 2020 2:49:22 PM general.Common answerExistingPolicyQuestions
+INFO: Opted to NO for Existing Policy question
+Nov 11, 2020 2:49:23 PM general.Common answerExistingPolicyQuestions
+INFO: Continue to Tobacco Usage Question
+Nov 11, 2020 2:49:23 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Existing policy Information Test Passed
+Nov 11, 2020 2:49:23 PM general.Common answerTobaccoUsageQuestion
+INFO: Opted to NO for tobacco question
+Nov 11, 2020 2:49:24 PM general.Common answerTobaccoUsageQuestion
+INFO: Continue to Medical History Question
+Nov 11, 2020 2:49:24 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Tobacco usage Information Test Passed
+Nov 11, 2020 2:49:25 PM general.MedicalHistory answer1A
+INFO: Opted to NO for High blood pressure, Heart attack, Angina, Arrhythmia, Aneurysm, Stroke, TIA, Heart or circulatory disease or disorder?
+Nov 11, 2020 2:49:26 PM general.MedicalHistory answer1B
+INFO: Opted to NO for Diabetes, Pancreas Disorder, Hepatitis, Crohn's Disease, Ulcerative Colitis, Liver or Digestive disease or disorder?
+Nov 11, 2020 2:49:28 PM general.MedicalHistory answer1C
+INFO: Opted to NO for Cancer in any form, lung disease or disorder, seizures, mental or nervous disorder, Bi-Polar disorder, paralysis, blindness?
+Nov 11, 2020 2:49:29 PM general.MedicalHistory answer1D
+INFO: Opted to NO for Any disease or disorder of the Kidneys, Urinary Bladder, Prostate, Reproductive Organs, or Sexually Transmitted Disease?
+Nov 11, 2020 2:49:30 PM general.MedicalHistory answer1E
+INFO: Opted to NO for Connective Tissue Disease, Systemic Lupus (SLE), Anemia, Arthritis, or Any disorder of the back, joints, muscles?
+Nov 11, 2020 2:49:32 PM general.MedicalHistory answer1F
+INFO: Opted to NO for Any other disease or disorder, injury, surgery within the past 24 months?
+Nov 11, 2020 2:49:33 PM general.MedicalHistory answer2
+INFO: Opted to NO for Within the past 2 years has any proposed insured participated in motorized racing, hang gliding, rock or mountain climbing,rodeo events, sky diving, or skin or scuba diving?
+Nov 11, 2020 2:49:34 PM general.MedicalHistory answer3A
+INFO: Opted to NO for Been medically treated or diagnosed by a medical professional as having Acquired Immune Deficiency Syndrome (AIDS), AIDS related complex (ARC), or any immune deficiency related disorder or tested positive for the Human Immunodeficiency Virus (HIV)?
+Nov 11, 2020 2:49:35 PM general.MedicalHistory answer3B
+INFO: Opted to NO for Within the past 5 years, pled guilty to or been convicted of a felony or misdemeanor (including DUI or DWI) or do you have such charge currently pending against you or have you had a driver’s license suspended or revoked or is currently suspended or revoked or within the past 6 months, been on probation or parole?
+Nov 11, 2020 2:49:37 PM general.MedicalHistory answer3C
+INFO: Opted to NO for Within the past 5 years, used illegal drugs, or abused alcohol or drugs, or had or been recommended by a medical professional or a licensed counselor to discontinue the use of alcohol or drugs or to have treatment or counseling for alcohol or drugs?
+Nov 11, 2020 2:49:38 PM general.MedicalHistory answer3D
+INFO: Opted to NO for 
+Nov 11, 2020 2:49:39 PM general.MedicalHistory answer3E
+INFO: Opted to NO for Within the past 12 months, consulted a physician, had surgery, been hospitalized, or had diagnostic tests (excluding AIDS/HIV tests) such as EKG, Xray, MRI, CAT scan? (select all that apply)
+Nov 11, 2020 2:49:40 PM general.MedicalHistory answer3F
+INFO: Opted to NO for Within the past 12 months, had diagnostic testing (excluding AIDS/HIV tests), surgery, or hospitalization recommended by a medical professional which has not been completed or for which the results have not been received, or been referred to a medical professional?
+Nov 11, 2020 2:49:41 PM general.SuppApp answer4
+INFO: Opted to No for Have you used tobacco or nicotine products in the past 36 months (excluding chewing tobacco or snuff)?
+Nov 11, 2020 2:49:42 PM general.SuppApp answer5
+INFO: Opted to NO for Have you used chewing tobacco or snuff in the past 36 months? If YES, you may apply for Preferred Tobacco rates.
+Nov 11, 2020 2:49:43 PM general.SuppApp answer6
+INFO: Opted to No for In the past 10 years, if you have taken medication to treat high blood pressure, did your last blood pressure reading exceed 140/90?
+Nov 11, 2020 2:49:44 PM general.SuppApp answer7
+INFO: Opted to No for In the past 10 years, if you have taken medication to treat high cholesterol, did your last cholesterol reading exceed 240 mg/dl?
+Nov 11, 2020 2:49:44 PM general.SuppApp answer8
+INFO: Opted to No for In the past 10 years, have you, received treatment for or been diagnosed by a medical professional that you have diabetes?
+Nov 11, 2020 2:49:44 PM general.SuppApp answer9
+INFO: Opted to No for In the past 10 years, have you, received treatment for or been diagnosed by a medical professional that you have cancer or cardiac disease (heart attack, myocardial infarct, angina, cardiac insufficiency, cerebral thrombosis or coronary artery disease)?
+Nov 11, 2020 2:49:45 PM general.SuppApp answer10
+INFO: Opted to No for Has more than one member of your family (father, mother, brother or sister) died before age 60 from breast, colon, intestinal or prostate cancer, or from cardiovascular disease (heart attack, myocardial infarct, angina, cardiac insufficiency, cerebral thrombosis or coronary artery disease)?
+Nov 11, 2020 2:49:46 PM general.SuppApp answer11
+INFO: Opted to No for In the past 10 years, have you been treated for alcohol abuse by a medical professional?
+Nov 11, 2020 2:49:46 PM general.SuppApp answer12
+INFO: Opted to No for In the past 10 years, have you been treated for drug abuse by a medical professional?
+Nov 11, 2020 2:49:48 PM general.SuppApp answer13
+INFO: Opted to No for In the past 5 years, have you either been found guilty of or been convicted of more than two moving motor vehicle violations or any DUI/DWI convictions?
+Nov 11, 2020 2:49:48 PM general.SuppApp answer14
+INFO: Opted to No for In the past 5 years, have you been convicted of a felony or misdemeanor?
+Nov 11, 2020 2:49:49 PM general.CovidQuestions answerCOVID1
+INFO: Opted to NO for Within the past 12 months, have you been advised by a medical professional to be quarantined, for any period of time for the novel coronavirus (COVID-19)?
+Nov 11, 2020 2:49:50 PM general.CovidQuestions answerCOVID2
+INFO: Opted to NO for Within the past 12 months, have you been treated for, examined for, diagnosed with, or tested positive for the novel coronavirus (COVID-19) by a medical professional?
+Nov 11, 2020 2:49:50 PM general.CovidQuestions answerCOVID3
+INFO: Opted to NO for Within the past 30 days, have you been advised by a medical professional to get specified medical care (such as any diagnostic testing or hospitalization) which was not completed; as result of fever, cough, shortness of breath, fatigue (excluding HIV/AIDS)?
+Nov 11, 2020 2:49:50 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Medical Information Test Passed
+Nov 11, 2020 2:49:51 PM general.Beneficiary addBenficiary
+INFO: Entered benf first name
+Nov 11, 2020 2:49:52 PM general.Beneficiary addBenficiary
+INFO: Entered benf relation
+Nov 11, 2020 2:49:52 PM general.Beneficiary addBenficiary
+INFO: Entered benf SSN
+Nov 11, 2020 2:49:52 PM general.Beneficiary addBenficiary
+INFO: Entered benf share allocation
+Nov 11, 2020 2:49:53 PM general.Beneficiary addBenficiary
+INFO: Benf added
+Nov 11, 2020 2:49:54 PM Sureify.AutomationTemplate.WebActions logTestPass
+INFO: Beneficiary Information Test Passed
